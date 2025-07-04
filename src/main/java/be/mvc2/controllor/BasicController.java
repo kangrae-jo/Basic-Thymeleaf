@@ -1,6 +1,5 @@
 package be.mvc2.controllor;
 
-
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpSession;
 import java.time.LocalDateTime;
